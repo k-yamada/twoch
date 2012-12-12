@@ -1,6 +1,6 @@
 # Twoch
 
-TODO: Write a gem description
+The 2channel client. 2channel is a Japanese textboard(http://www.2ch.net/)
 
 ## Installation
 
